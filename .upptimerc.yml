@@ -7,7 +7,22 @@ sites:
     url: https://www.google.com
   - name: Landate Web
     url: https://landate.siddhantprateek.tech
+  - name: Portfolio Website
+    url: https://siddhantprateek.tech
+  - name: Celuxe Website
+    url: https://celuxe.vercel.app
+  - name: Greate Escape Website
+    url: https://greate-escape.fly.dev
+  - name: Opendesk Website
+    url: https://opendesk.vercel.app
+  - name: Flint Money
+    url: https://flintmoney.vercel.app
+  - name: Healthgenic Website
+    url: https://healthgenic.vercel.app
+  - name: SpaceNest Website
+    url: https://spacenest.vercel.app
 
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
