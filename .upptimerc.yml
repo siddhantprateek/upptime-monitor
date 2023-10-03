@@ -21,6 +21,8 @@ sites:
     url: https://healthgenic.vercel.app
   - name: SpaceNest Website
     url: https://spacenest.vercel.app
+  - name: Netflux Website
+    url: https://netflux-1xg0mz0y0-siddhantprateek.vercel.app
 
       
 status-website:
