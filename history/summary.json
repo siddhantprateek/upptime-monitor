@@ -22,19 +22,19 @@
     "url": "https://landate.siddhantprateek.tech",
     "icon": "https://icons.duckduckgo.com/ip3/landate.siddhantprateek.tech.ico",
     "slug": "landate-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 49,
-    "timeWeek": 134,
-    "timeMonth": 121,
-    "timeYear": 115,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 113,
+    "timeDay": 52,
+    "timeWeek": 124,
+    "timeMonth": 120,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-11-02": 0
+      "2023-11-02": 28
     }
   },
   {
