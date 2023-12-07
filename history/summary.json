@@ -22,10 +22,10 @@
     "url": "https://landate.siddhantprateek.tech",
     "icon": "https://icons.duckduckgo.com/ip3/landate.siddhantprateek.tech.ico",
     "slug": "landate-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 108,
@@ -34,6 +34,7 @@
     "timeMonth": 93,
     "timeYear": 108,
     "dailyMinutesDown": {
+      "2023-12-07": 1,
       "2023-11-02": 28
     }
   },
@@ -168,9 +169,9 @@
     "url": "https://netflux-1xg0mz0y0-siddhantprateek.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/netflux-1xg0mz0y0-siddhantprateek.vercel.app.ico",
     "slug": "netflux-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,6 +180,8 @@
     "timeWeek": 116,
     "timeMonth": 100,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   }
 ]
