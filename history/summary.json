@@ -78,19 +78,19 @@
     "url": "https://greate-escape.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/greate-escape.fly.dev.ico",
     "slug": "greate-escape-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 534,
-    "timeWeek": 488,
-    "timeMonth": 522,
-    "timeYear": 525,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 789,
+    "timeDay": 10541,
+    "timeWeek": 2995,
+    "timeMonth": 1168,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2023-12-12": 0
+      "2023-12-12": 13
     }
   },
   {
