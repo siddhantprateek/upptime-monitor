@@ -42,18 +42,20 @@
     "url": "https://siddhantprateek.tech",
     "icon": "https://icons.duckduckgo.com/ip3/siddhantprateek.tech.ico",
     "slug": "portfolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 163,
-    "timeWeek": 257,
-    "timeMonth": 216,
-    "timeYear": 203,
-    "dailyMinutesDown": {}
+    "time": 201,
+    "timeDay": 111,
+    "timeWeek": 232,
+    "timeMonth": 211,
+    "timeYear": 201,
+    "dailyMinutesDown": {
+      "2023-12-22": 0
+    }
   },
   {
     "name": "Celuxe Website",
