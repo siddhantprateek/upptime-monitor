@@ -25,6 +25,8 @@ sites:
     url: https://netflux-1xg0mz0y0-siddhantprateek.vercel.app
   - name: Resto Website
     url: https://resto-steel.vercel.app
+  - name: Filtered News
+    url: https://filtered.vercel.app
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
