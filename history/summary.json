@@ -22,18 +22,19 @@
     "url": "https://landate.siddhantprateek.tech",
     "icon": "https://icons.duckduckgo.com/ip3/landate.siddhantprateek.tech.ico",
     "slug": "landate-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 106,
-    "timeDay": 117,
-    "timeWeek": 85,
-    "timeMonth": 102,
-    "timeYear": 106,
+    "time": 116,
+    "timeDay": 687,
+    "timeWeek": 230,
+    "timeMonth": 137,
+    "timeYear": 116,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-11-02": 28
     }
   },
@@ -50,7 +51,7 @@
     "uptimeYear": "99.97%",
     "time": 269,
     "timeDay": 241,
-    "timeWeek": 180,
+    "timeWeek": 184,
     "timeMonth": 433,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -63,18 +64,20 @@
     "url": "https://celuxe.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/celuxe.vercel.app.ico",
     "slug": "celuxe-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 178,
-    "timeWeek": 93,
-    "timeMonth": 107,
+    "timeDay": 166,
+    "timeWeek": 91,
+    "timeMonth": 109,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Greate Escape Website",
@@ -89,7 +92,7 @@
     "uptimeYear": "100.00%",
     "time": 699,
     "timeDay": 474,
-    "timeWeek": 542,
+    "timeWeek": 551,
     "timeMonth": 525,
     "timeYear": 699,
     "dailyMinutesDown": {}
@@ -107,7 +110,7 @@
     "uptimeYear": "100.00%",
     "time": 93,
     "timeDay": 85,
-    "timeWeek": 97,
+    "timeWeek": 102,
     "timeMonth": 87,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -125,7 +128,7 @@
     "uptimeYear": "100.00%",
     "time": 98,
     "timeDay": 151,
-    "timeWeek": 89,
+    "timeWeek": 72,
     "timeMonth": 85,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -161,7 +164,7 @@
     "uptimeYear": "100.00%",
     "time": 78,
     "timeDay": 111,
-    "timeWeek": 87,
+    "timeWeek": 84,
     "timeMonth": 76,
     "timeYear": 78,
     "dailyMinutesDown": {}
@@ -197,7 +200,7 @@
     "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 100,
-    "timeWeek": 71,
+    "timeWeek": 73,
     "timeMonth": 78,
     "timeYear": 79,
     "dailyMinutesDown": {}
@@ -215,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 254,
     "timeDay": 497,
-    "timeWeek": 254,
+    "timeWeek": 217,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {}
