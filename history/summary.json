@@ -84,9 +84,9 @@
     "url": "https://greate-escape.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/greate-escape.fly.dev.ico",
     "slug": "greate-escape-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +95,9 @@
     "timeWeek": 530,
     "timeMonth": 517,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-04": 0
+    }
   },
   {
     "name": "Opendesk Website",
