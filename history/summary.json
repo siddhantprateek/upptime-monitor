@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siddhantprateek.tech.ico",
     "slug": "portfolio-website",
     "status": "down",
-    "uptime": "94.02%",
+    "uptime": "93.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.76%",
-    "uptimeYear": "94.02%",
+    "uptimeMonth": "35.05%",
+    "uptimeYear": "93.78%",
     "time": 234,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 203,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-08-13": 78,
+      "2024-08-13": 1265,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
@@ -85,9 +85,9 @@
     "url": "https://greate-escape.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/greate-escape.fly.dev.ico",
     "slug": "greate-escape-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +96,9 @@
     "timeWeek": 698,
     "timeMonth": 636,
     "timeYear": 620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-13": 0
+    }
   },
   {
     "name": "Opendesk Website",
